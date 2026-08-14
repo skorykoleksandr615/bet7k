@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bet7k.site/sitemap.xml
